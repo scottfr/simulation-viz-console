@@ -1,0 +1,21 @@
+{
+  "name": "simulation-viz-console",
+  "version": "1.0.0",
+  "author": "Scott Fortmann-Roe",
+  "license" : "AGPL",
+  "type": "module",
+  "homepage": "https://github.com/scottfr/simulation-viz-console",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "dependencies": {
+    "asciichart": "^1.5.25",
+    "table": "^6.8.0"
+  },
+  "peerDependencies": {
+    "simulation": "1.x"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "simulation-viz-console",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "author": "Scott Fortmann-Roe",
   "license": "AGPL",
   "type": "module",
@@ -16,6 +16,6 @@
     "table": "^6.8.0"
   },
   "peerDependencies": {
-    "simulation": "^7.0.0"
+    "simulation": "^8.0.0"
   }
 }
